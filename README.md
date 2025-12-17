@@ -5,6 +5,7 @@ This project is a text-based C++ simulator showcasing skills including:
 - Object-oriented design
 - Modular compilation and linking
 - State-driven logic
+- Heaps/Stacks
 - JSON-based configuration
 - Command-line interaction
 - Build automation with Make
